@@ -1,1 +1,36 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap");
+
+:root {
+  --font-anton: "Anton", sans-serif;
+  --font-roboto-flex: "Roboto Flex", sans-serif;
+}
+
+*{
+  font-family: var(--font-roboto-flex)
+}
+
+
+
+/* TAILWIND CONFIGRATIONS IN CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* MAIN CSS */
+
+body {
+  background-color: black;
+}
+
+.cr {
+  cursor: pointer;
+}
+
+.anton {
+  font-family: var(--font-anton);
+}
+.robort {
+  font-family: var(--font-roboto-flex);
+}
