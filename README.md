@@ -1,27 +1,75 @@
-# Portfolio
+# 💻 Portfolio Web Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+This is my personal **Portfolio Web Application**, built with **Angular 17+** using **Standalone Components** and **TypeScript**.  
+The project demonstrates modern front-end development practices, clean architecture, responsive design, and smooth animations, making it ideal for showcasing projects, skills, and experience.
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 🚀 Live Demo
 
-## Code scaffolding
+🔗 **Live Website:**  
+https://mahmoud-elwakeel-portfolio.vercel.app/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🧰 Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular 17+**
+  - Standalone Components
+  - TypeScript
+  - Custom Directives
+- **Tailwind CSS**
+  - Fully responsive design
+  - Smooth gap-based animations
+- **Font Awesome**
+  - Icons for UI enhancements
+- **CSS Animations**
+  - Hover effects
+  - Section transitions
+- **Modern Angular Practices**
+  - Signals / reactive state
+  - Clean component architecture
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ✨ Features
 
-## Running end-to-end tests
+- **Responsive Design** – Works on mobile, tablet, and desktop
+- **Interactive Animations** – Smooth transitions using Tailwind and CSS
+- **Font Awesome Integration** – Stylish icons for sections and social links
+- **Custom Directives** – Reusable behaviors and UI enhancements
+- **Project Showcase** – Display of portfolio projects with descriptions and links
+- **Contact Form** – Functional email/contact form (optional integration)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🎨 Animations & UX
+
+- Smooth gap-based animations for project cards and sections
+- Hover effects on buttons and links
+- Section entry animations for better user experience
+- Font Awesome icons enhance visual hierarchy
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/mahmoudmowakeel/My-Portfolio.git
+```
+
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Run locally
+```bash
+ng serve
+```
+
+Open your browser: http://localhost:4200
